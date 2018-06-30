@@ -1,0 +1,24 @@
+pwd shows you where you are
+
+cd (SHIFT FN INSERT is like CTRL V). Change back to fwd slash and add "" on spaced names
+
+ls - lists all you files inside the folder
+
+git init - This initializes your git and adds a hidden folder in that directory
+
+git status Shows the status of everything in that folder
+
+git add index.html - (Then do git status) You'll see new file in the staging area
+
+Make a modification to the file index.html
+
+Do git status, and you'll see that index.html has been modified
+
+Now to do a save (Make sure you have your name and email first)
+
+git config --global user.name "Kudzai Vilika" - Sets up your username
+git config --global user.email "kativu@gmail.com" - Set email
+
+Now to do a save
+
+
