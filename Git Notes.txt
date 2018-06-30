@@ -21,4 +21,14 @@ git config --global user.email "kativu@gmail.com" - Set email
 
 Now to do a save
 
+git add index.html - Staging area
+
+
+git commit - m "First file on the project"
+
+git log - You'll see the commit with its unique ID and other details
+
+Create a css file and ref it on your index.html 
+
+git status - Check status
 
