@@ -1,4 +1,4 @@
-pwd shows you where you are
+cpwd shows you where you are
 
 cd (SHIFT FN INSERT is like CTRL V). Change back to fwd slash and add "" on spaced names
 
@@ -31,4 +31,10 @@ git log - You'll see the commit with its unique ID and other details
 Create a css file and ref it on your index.html 
 
 git status - Check status
+
+Check difference
+
+git add * - Stage everything
+git commit -m "notes"
+git log
 
